@@ -9,3 +9,5 @@ Atualmente trabalho em projetos relacionados com analise de dados biologicos e n
 - Thanks for visiting.
 
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+<a href="https://www.linkedin.com/in/felipeasr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social//linked-in-alt.svg" alt="Felipeasr" height="30" width="40" /></a> <a href="https://www.instagram.com/felipeasr99/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Felipeasr99" height="30" width="40" /></a>
+
