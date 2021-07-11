@@ -1,5 +1,5 @@
 ### Hi👋 I'm Felipe !
-Atualmente trabalho em projetos relacionados com analise de dados biologicos e na criação de aplicativos 
+
 ## Languages:
 
 
