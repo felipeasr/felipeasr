@@ -8,6 +8,8 @@ I'm Felipe !
 
 ## Applications I've worked on :
 <img src="./images/aquahelp.png" alt="Farfetch" width="12"/> [Aqua Help](https://play.google.com/store/apps/details?id=com.teachable_ml.aqua.help) </br>
+<img src="./images/aquasafe.png" alt="Farfetch" width="12"/> [Aqua Safe](https://play.google.com/store/apps/details?id=br.gov.rs.ddpa_seapi.aquasaude.aquasafe) </br>
+<img src="./images/aquasaude.png" alt="Farfetch" width="12"/> [Aqua Saude](https://play.google.com/store/apps/details?id=br.gov.rs.fepagro.aquasaude_camarao) </br>
 
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 <a href="https://www.linkedin.com/in/felipeasr/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Felipeasr" ></a> <a href="https://www.instagram.com/felipeasr99/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Felipeasr99" /></a>
