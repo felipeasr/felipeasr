@@ -1,4 +1,4 @@
-<img align="start" src="./images/FElipe (2).png" alt="Felipeasr" >
+<img align="center" src="./images/rounded-in-photoretrica.png" alt="Felipeasr" >
 ### Hi👋 
 I'm Felipe !
 
