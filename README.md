@@ -1,5 +1,4 @@
-<img align="center" src="./images/rounded-in-photoretrica.png" alt="Felipeasr" >
-### Hi👋 
+# Hi👋 
 I'm Felipe !
 
 ## Languages:
