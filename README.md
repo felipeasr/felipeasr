@@ -1,18 +1,43 @@
-# Hi👋 
-I'm Felipe !
+# 👋 Olá, me chamo Felipe!
 
-## Languages:
+Atualmente, trabalho com *Análise de Dados* 📊 e utilizo diversas tecnologias para desenvolvimento e modelagem. Tenho experiência com:
 
+- 🚀 *Linguagens e Frameworks:* Python 🐍, Streamlit, Power BI 📈, TensorFlow 🤖, Java ☕, Node.js, HTML, CSS 🎨, Flutter 📱
 
-<a href="" target="blank"><img src ="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a> <a href="" target="blank"><img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a> <a href="" target="blank"><img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a> <a href="" target="blank"><img src ="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"></a> <a href="" target="blank"><img src = "https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"></a> <a href="" target="blank"><img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+## 📌 Aplicativos que já desenvolvi ou trabalhei
 
-## Applications I've worked on :
-<img src="./images/aquahelp.png" alt="Farfetch" width="12"/> [Aqua Help](https://play.google.com/store/apps/details?id=com.teachable_ml.aqua.help) </br>
-<img src="./images/aquasafe.png" alt="Farfetch" width="12"/> [Aqua Safe](https://play.google.com/store/apps/details?id=br.gov.rs.ddpa_seapi.aquasaude.aquasafe) </br>
-<img src="./images/aquasaude.png" alt="Farfetch" width="12"/> [Aqua Saude](https://play.google.com/store/apps/details?id=br.gov.rs.fepagro.aquasaude_camarao) </br>
+- 🌊 [AquaHealth](https://play.google.com/store/apps/details?id=br.gov.rs.fepagro.aquasaude_camarao&hl=en)  
+- 🛡️ [AquaSafe](https://play.google.com/store/apps/details?id=br.gov.rs.ddpa_seapi.aquasaude.aquasafe&hl=en)  
+- 🐟 [AquaTilápia](https://play.google.com/store/apps/details?id=aquatilapia.ddpaseapi.rs.gov.br.aqua_tilapia&hl=en)  
+- 🚑 [AquaHelp](https://play.google.com/store/apps/details?id=aquatilapia.ddpaseapi.rs.gov.br.aqua_tilapia&hl=en)  
 
+## 🔬 Meus projetos recentes
 
-# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-<a href="https://www.linkedin.com/in/felipeasr/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Felipeasr" ></a> <a href="https://www.instagram.com/felipeasr99/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Felipeasr99" /></a>
+- 🎗️ [Painel OncoPed](https://dashoncologico.streamlit.app/): Um painel interativo para análise de dados oncológicos infantojuvenis.  
+- 🎗️ [Triagemoncopediatrica](https://triagemoncopediatrica.web.app/): Um app para triagem de suspeitas de câncer infantojuvenil.  
 
-![Snake animation](https://github.com/felipeasr/felipeasr/blob/output/github-contribution-grid-snake.svg)
+📧 *Contato:* [felipe.dassis.ribeiro@gmail.com](mailto:felipe.dassis.ribeiro@gmail.com)  
+🔗 *LinkedIn:* [linkedin.com/in/felipeasr](https://www.linkedin.com/in/felipeasr/)
+
+---
+
+# 🌍 Hi, I'm Felipe!
+
+I currently work with *Data Analysis* 📊 and use various technologies for development and modeling. My experience includes:
+
+- 🚀 *Languages & Frameworks:* Python 🐍, Streamlit, Power BI 📈, TensorFlow 🤖, Java ☕, Node.js, HTML, CSS 🎨, Flutter 📱
+
+## 📌 Apps I've worked on
+
+- 🌊 [AquaHealth](https://play.google.com/store/apps/details?id=br.gov.rs.fepagro.aquasaude_camarao&hl=en)  
+- 🛡️ [AquaSafe](https://play.google.com/store/apps/details?id=br.gov.rs.ddpa_seapi.aquasaude.aquasafe&hl=en)  
+- 🐟 [AquaTilápia](https://play.google.com/store/apps/details?id=aquatilapia.ddpaseapi.rs.gov.br.aqua_tilapia&hl=en)  
+- 🚑 [AquaHelp](https://play.google.com/store/apps/details?id=aquatilapia.ddpaseapi.rs.gov.br.aqua_tilapia&hl=en)  
+
+## 🔬 My latest projects
+
+- 🎗️ [Painel OncoPed](https://dashoncologico.streamlit.app/): An interactive dashboard for pediatric oncology data analysis.  
+- 🎗️ [Triagemoncopediatrica](https://triagemoncopediatrica.web.app/): An app to screen childhood cancer concerns.  
+
+📧 *Contact:* [felipe.dassis.ribeiro@gmail.com](mailto:felipe.dassis.ribeiro@gmail.com)  
+🔗 *LinkedIn:* [linkedin.com/in/felipeasr](https://www.linkedin.com/in/felipeasr/)
