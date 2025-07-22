@@ -13,7 +13,7 @@ Atualmente, trabalho com *Análise de Dados* 📊 e utilizo diversas tecnologias
 
 ## 🔬 Meus projetos recentes
 
-- 🎗️ [Painel OncoPed](https://dashoncologico.streamlit.app/): Um painel interativo para análise de dados oncológicos infantojuvenis.  
+- 🎗️ [Painel OncoPed](https://dashpaineloncoped.web.app): Um painel interativo para análise de dados oncológicos infantojuvenis.  
 - 🎗️ [Triagemoncopediatrica](https://triagemoncopediatrica.web.app/): Um app para triagem de suspeitas de câncer infantojuvenil.  
 
 📧 *Contato:* [felipe.dassis.ribeiro@gmail.com](mailto:felipe.dassis.ribeiro@gmail.com)  
@@ -36,7 +36,7 @@ I currently work with *Data Analysis* 📊 and use various technologies for deve
 
 ## 🔬 My latest projects
 
-- 🎗️ [Painel OncoPed](https://dashoncologico.streamlit.app/): An interactive dashboard for pediatric oncology data analysis.  
+- 🎗️ [Painel OncoPed](https://dashpaineloncoped.web.app): An interactive dashboard for pediatric oncology data analysis.  
 - 🎗️ [Triagemoncopediatrica](https://triagemoncopediatrica.web.app/): An app to screen childhood cancer concerns.  
 
 📧 *Contact:* [felipe.dassis.ribeiro@gmail.com](mailto:felipe.dassis.ribeiro@gmail.com)  
